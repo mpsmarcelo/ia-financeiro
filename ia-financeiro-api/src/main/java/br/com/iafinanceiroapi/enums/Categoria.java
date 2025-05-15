@@ -1,4 +1,4 @@
-package br.com.ia_financeiro_api.enums;
+package br.com.iafinanceiroapi.enums;
 
 
 public enum Categoria {
