@@ -1,4 +1,4 @@
-package br.com.ia_financeiro_api;
+package br.com.iafinanceiroapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
