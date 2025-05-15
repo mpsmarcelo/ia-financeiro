@@ -1,6 +1,6 @@
-package br.com.ia_financeiro_api.model;
+package br.com.iafinanceiroapi.model;
 
-import br.com.ia_financeiro_api.enums.Categoria;
+import br.com.iafinanceiroapi.enums.Categoria;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.data.annotation.Id;
